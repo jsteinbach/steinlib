@@ -3,7 +3,7 @@
   <groupId>com.jsteinbach</groupId>
   <artifactId>steinlib</artifactId>
   <packaging>jar</packaging>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <name>steinlib</name>
   <url>http://www.jsteinbach.com</url>
   <dependencies>
